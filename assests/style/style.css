@@ -1,0 +1,812 @@
+* {
+    padding: 0;
+    margin: 0;
+    font-family: Arial;
+    box-sizing: border-box;
+}
+
+.headerSection {
+    height: 69rem;
+    width: 100%;
+    background-position: center;
+    background-size: cover;
+    justify-content: space-evenly;
+    background-image: url(/assests/images/Rectangle.png);
+
+}
+
+.navBar {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+nav {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding-top: 160px;
+    margin-left: -50px;
+    padding-right: 10%;
+    width: 844px;
+}
+
+nav ul li {
+    list-style-type: none;
+    display: inline-block;
+    padding: 10px 20px;
+}
+
+nav ul li a {
+    color: black;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.search {
+    border-radius: 30px;
+    margin-top: 160px;
+    padding: 15px;
+    margin-left: -100px;
+    background-color: black;
+    color: white;
+    text-align: center;
+    font-size: 20px;
+}
+
+.travel {
+    padding-top: 10%;
+    margin-left: 30px;
+}
+
+.imageSection {
+    margin-top: 128px;
+    margin-left: -666px;
+}
+
+.imageSection img {
+    height: 37rem;
+    width: 93%;
+    margin-left: -90px;
+    margin-top: 28px;
+}
+
+.imageName {
+    position: relative;
+    margin-left: 204px;
+
+}
+
+.paraSection {
+    height: 55rem;
+
+}
+
+.headerName {
+
+    font-size: 65px;
+    padding-left: 94px;
+    margin-top: -84px;
+}
+
+.travelName {
+    font-size: 74px;
+    padding-left: 24px;
+    margin-top: 379px;
+    width: 632px;
+
+}
+
+.loremName {
+    font-size: 18px;
+
+}
+
+.contantName {
+    position: absolute;
+    top: -55px;
+    right: 576px;
+}
+
+.chooseName {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    justify-content: center;
+    margin-top: 100px;
+}
+
+.lowName {
+    font-size: 40px;
+}
+
+.nameDolor {
+    margin-left: 190px;
+}
+
+.ametSection {
+    margin-top: 40px;
+    font-size: 18px;
+    margin-left: -88px;
+}
+
+.loremSecondsection {
+    margin-left: 56px;
+}
+
+.sectionSed {
+    margin-left: 56px;
+}
+
+.ipsumName img {
+    width: 117%;
+    height: 736px;
+}
+
+.color {
+    border: 1px solid magenta;
+    margin-left: 18px;
+}
+
+.button {
+    padding: 12px;
+}
+
+.sectionPart {
+    margin-top: 20px;
+    margin-left: -16px;
+}
+
+.loremSection {
+    margin-top: 5px;
+}
+
+.locusName {
+    font-size: 24px;
+    margin-top: 15px;
+    text-decoration-line: underline;
+}
+
+.createSection {
+    margin-left: -79px;
+}
+
+.letter {
+    background-color: white;
+    padding: 12px;
+    margin-top: 1%;
+}
+
+.largeSection {
+    margin-top: -85px;
+    margin-left: 144px;
+}
+
+.small {
+    font-size: 20px;
+    margin-top: -44px;
+    margin-left: 56px;
+}
+
+.dest {
+    border-radius: 50px;
+    padding: 13px;
+    border: 2px solid black;
+    font-size: 15px;
+    margin-left: -18px;
+
+}
+
+.options {
+    font-size: 50px;
+    margin-left: -20px;
+}
+
+.paraSection {
+    display: flex;
+}
+
+.thisSection {
+    margin-left: 394px;
+    margin-top: -722px;
+}
+
+.bestName {
+    margin-top: 130px;
+    position: relative;
+    z-index: 999;
+}
+
+.pictureName {
+    margin-top: 390px;
+    margin-left: 91px;
+}
+
+.Sectionlacus {
+    margin-top: 35px;
+    font-size: 18px;
+    margin-left: -81px;
+}
+
+.loremPara {
+    font-size: 24px;
+    margin-top: 15px;
+    text-decoration-line: underline;
+}
+
+.vector {
+    margin-left: -50px;
+}
+
+.searchSection {
+    border-radius: 50px;
+    padding: 5px;
+    background-color: black;
+    color: white;
+    text-align: center;
+    font-size: 30px;
+    margin-left: -20px;
+}
+
+.nameType {
+    border-radius: 50px;
+    padding: 5px;
+    background-color: black;
+    color: white;
+    text-align: center;
+    font-size: 30px;
+    margin-left: -13px;
+    margin-top: 25px;
+}
+
+.sectionlabore {
+    height: 66rem;
+}
+
+.sectionThirdname {
+    height: 52rem;
+}
+
+.imageFolder {
+    bottom: 441px;
+    position: absolute;
+    left: 18px;
+}
+
+.copyName {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.allName {
+    margin-top: 100px;
+    font-size: 40px;
+}
+
+.paraThreesection {
+
+    position: relative;
+    margin-top: 132px;
+}
+
+.layerSection {
+    position: relative;
+}
+
+.layerSection img {
+    color: red;
+}
+
+.imageSection {
+    margin-top: 100px;
+}
+
+.fourSection {
+    height: 50rem;
+    position: relative;
+}
+
+.seaImage img {
+    width: 100%;
+}
+
+.offerName {
+    margin-top: 236px;
+    font-size: 40px;
+    margin-left: 246px;
+    width: 67%;
+}
+
+.member {
+    display: flex;
+    justify-content: space-between;
+    position: absolute;
+    left: 0;
+    top: 0;
+}
+
+.seaName {
+    margin-left: 187px;
+    width: 66%;
+    font-size: 17px;
+    margin-top: 53px;
+}
+
+.memberSection {
+    border-radius: 50px;
+    padding: 5px;
+    background-color: black;
+    color: white;
+    text-align: center;
+    font-size: 30px;
+    margin-left: 214px;
+    margin-top: 104px;
+}
+
+.name {
+    height: 50rem;
+    margin-left: 452px;
+}
+
+.shape {
+    bottom: 348px;
+    position: absolute;
+    left: 1129px;
+}
+
+.texture img {
+    margin-left: -1076px;
+}
+
+.section {
+    height: 28rem;
+}
+
+.section {
+    display: flex;
+    margin-top: 374px;
+    justify-content: space-between;
+}
+
+.searchHere {
+    border-radius: 50px;
+    padding: 5px;
+    background-color: black;
+    color: white;
+    text-align: center;
+    font-size: 30px;
+    margin-left: 70px;
+    margin-top: 104px;
+}
+
+.travel img {
+    color: blue;
+}
+
+.sevenSection {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.sixSection {
+    font-size: 50px;
+}
+
+.para {
+    font-size: 22px;
+    margin-top: 5px;
+}
+
+:root {
+    --color: rgb(43, 43, 47);
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: var(--color);
+}
+
+main {
+    margin: 0;
+    padding: 0;
+}
+
+.pictureName img {
+    color: blue;
+}
+
+.travel2x1 {
+    position: relative;
+    background-image: url("/assests/images/major-1bgimg.png");
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: 100% 0%;
+    width: 100vw;
+    height: auto;
+    display: flex;
+    margin-left: -561px;
+    margin-top: 8%;
+}
+
+.heartImg {
+    height: clamp(6rem, max(6vw, 4vh), 5rem);
+    width: auto;
+}
+
+.HeartAndText p {
+    margin-top: -33%;
+    font-size: 36px;
+}
+
+.nameSection {
+    font-size: 18px;
+}
+
+.travel2x1Description button {
+    background-color: rgb(39, 38, 38);
+    color: white;
+    padding: 1%;
+    padding-left: 3%;
+    padding-right: 3%;
+    border: none;
+    border-radius: 25px;
+}
+
+.bestBeach {
+    background-image: url("../images/major-2-bgimg.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-height: 60vh;
+    position: relative;
+    background-position: center;
+}
+
+.bestBeach p {
+    font-size: clamp(.7rem, 2vw, 2rem);
+    padding-top: 30%;
+    padding-left: 20%;
+    padding-bottom: 30%;
+}
+
+.form {
+    background-color: hsl(120, 8%, 92%);
+    display: flex;
+    padding: 5%;
+    gap: 5%;
+    flex-direction: column;
+}
+
+.form>* {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 5%;
+}
+
+.form img {
+    width: 40vw;
+}
+
+.formTextArea {
+    width: 40vw;
+}
+
+.formTextArea:first-child {
+    font-size: clamp(1rem, 4vw, 2.5rem);
+}
+
+.smallText {
+    font-size: clamp(.3rem, 1vw, 1rem);
+}
+
+form select {
+    padding: 1%;
+    background-color: white;
+    color: var(--color);
+    padding-left: 3%;
+    padding-right: 5%;
+    min-width: 50vw;
+    border: 2px solid var(--color);
+    border-radius: 25px;
+    margin: 1%;
+    margin-left: 0;
+    font-size: clamp(1rem, 2vw, 1.3rem);
+    appearance: none;
+
+    background-image: url("data:image/svg+xml;charset=US-ASCII,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22292.4%22%20height%3D%22292.4%22%3E%3Cpath%20fill%3D%22%23131313%22%20d%3D%22M287%2069.4a17.6%2017.6%200%200%200-13-5.4H18.4c-5%200-9.3%201.8-12.9%205.4A17.6%2017.6%200%200%200%200%2082.2c0%205%201.8%209.3%205.4%2012.9l128%20127.9c3.6%203.6%207.8%205.4%2012.8%205.4s9.2-1.8%2012.8-5.4L287%2095c3.5-3.5%205.4-7.8%205.4-12.8%200-5-1.9-9.2-5.5-12.8z%22%2F%3E%3C%2Fsvg%3E");
+    background-repeat: no-repeat;
+    background-position: right 0.7rem top 50%;
+    background-size: 0.65rem auto;
+
+}
+
+.halfTriangle {
+
+    margin-top: 780px;
+}
+
+form button {
+    color: white;
+    background-color: var(--color);
+    padding: 1%;
+    padding-left: 3%;
+    padding-right: 5%;
+    min-width: 30vw;
+    border: 2px solid var(--color);
+    border-radius: 25px;
+    margin: 1%;
+    margin-left: 0;
+    font-size: clamp(1rem, 2vw, 1.3rem);
+}
+
+footer {
+    background-color: hsl(120, 8%, 92%);
+    min-height: 50vh;
+    padding: 5%;
+}
+
+footer>* {
+    gap: 5%;
+    padding: 5%;
+}
+
+footer .HeartAndText {
+    width: 20vw;
+    margin-top: 0vw;
+    margin-bottom: 0vw;
+}
+
+#newsletter {
+    font-size: clamp(1rem, 4vw, 2rem);
+}
+
+#newsletter input {
+    padding: 3%;
+    padding-left: 5%;
+    padding-right: 5%;
+    min-width: 20vw;
+    border: 2px solid var(--color);
+    border-radius: 25px;
+}
+
+#newsletter button {
+    color: white;
+    background-color: var(--color);
+    padding: 1%;
+    padding-left: 5%;
+    padding-right: 5%;
+    min-width: 20vw;
+    border: 2px solid var(--color);
+    border-radius: 25px;
+    margin: 1%;
+    margin-left: 0;
+    font-size: clamp(1rem, 2vw, 1.3rem);
+}
+
+.list {
+    display: flex;
+    font-size: clamp(1rem, 2vw, 1.3rem);
+    line-height: 2;
+}
+
+.heart button {
+    color: white;
+    background-color: var(--color);
+    padding: 1%;
+    padding-left: 5%;
+    padding-right: 5%;
+    min-width: 9vw;
+    border: 2px solid var(--color);
+    border-radius: 25px;
+    margin: 1%;
+    margin-left: 0;
+    font-size: clamp(1rem, 2vw, 1.3rem);
+}
+
+.heart {
+    font-size: clamp(1rem, 3vw, 3rem);
+}
+
+.heart>* {
+    gap: 5%;
+    padding: 5%;
+    padding-left: 0;
+}
+
+.heart p {
+    text-align: center;
+    font-size: small;
+    margin-left: -155px;
+}
+
+
+
+@media screen and (min-width:425px) {
+    .form {
+        display: flex;
+        flex-direction: row;
+    }
+
+    .form>* {
+        display: block;
+        margin-left: none;
+        margin-right: auto;
+        padding: 5%;
+    }
+
+    form select {
+        min-width: 30vw;
+    }
+}
+
+@media screen and (min-width:768px) {
+    footer {
+        display: flex;
+        flex-direction: row-reverse;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .list {
+        flex-direction: column;
+        width: 35vw;
+    }
+
+    footer>* {
+        max-width: 30vw;
+        margin-left: auto;
+        margin-right: auto;
+    }
+}
+
+
+
+
+@media (max-width:900px) {
+    .headerSection {
+        margin-left: 533px;
+    }
+
+    .ipsumName img {
+        width: 475%;
+        margin-top: 206px;
+        margin-left: -428px;
+        height: 1099px;
+    }
+
+    .lowName {
+        font-size: 84px;
+        margin-left: 186px;
+        width: 109%;
+    }
+
+    .dest {
+        border-radius: 50px;
+        padding: 29px;
+        border: 6px solid black;
+        font-size: 34px;
+        margin-left: 175px;
+        margin-top: 20px;
+    }
+
+    .searchSection {
+        padding: 32px;
+        font-size: 50px;
+        margin-left: 178px;
+        width: 86%;
+    }
+
+    .loremName {
+        font-size: 39px;
+        margin-left: 224px;
+        width: 93%;
+    }
+
+    .locusName {
+        font-size: 54px;
+        margin-left: 229px;
+    }
+
+    .headerName {
+        font-size: 163px;
+        width: 149%;
+        margin-top: -174px;
+    }
+
+    .paraSection {
+        display: flex;
+        flex-direction: column;
+    }
+
+    .imageSection img {
+        height: 69rem;
+        width: 122%;
+        margin-left: 240px;
+        margin-top: 28px;
+    }
+
+    .chooseName {
+        display: flex;
+        flex-direction: column
+    }
+
+    .travel img {
+        height: 96%;
+        margin-top: 82px;
+        margin-left: -148px;
+    }
+
+    .travelName {
+        font-size: 170px;
+        padding-left: 132px;
+        margin-top: -82px;
+        width: 785px;
+    }
+
+    .pictureName img {
+        height: 111%;
+        margin-top: 82px;
+        margin-left: -213px;
+    }
+
+    .pictureName {
+        margin-left: 95px;
+        margin-top: 73px;
+    }
+
+    .options {
+        font-size: 148px;
+        width: 229%;
+        margin-left: -183px;
+        margin-top: 13px;
+    }
+
+    .Sectionlacus {
+        font-size: 49px;
+        width: 156%;
+        margin-left: -232px;
+        width: 245%;
+    }
+
+    .ametSection {
+        margin-top: 40px;
+        font-size: 48px;
+        width: 374%;
+        margin-left: -245px;
+    }
+
+    .nameType {
+        font-size: 86px;
+    }
+
+    .loremPara {
+        font-size: 53px;
+        margin-left: 22px;
+    }
+
+    .layerSection {
+        margin-top: 2237px;
+    }
+
+    .layerSection img {
+        margin-left: -732px;
+        height: 68rem;
+        margin-top: 169px;
+    }
+
+    .imageFolder {
+        bottom: 942px;
+        left: 351px;
+    }
+
+    .travel2x1 {
+        height: 500rem;
+    }
+
+    .allName {
+        width: 317%;
+        margin-left: -678px;
+    }
+}
